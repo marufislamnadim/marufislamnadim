@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marufislamnadim
+- 👋 Hi, I’m Md. Maruf Islam
 - 👀 I’m interested in Web Development and AI
 - 🌱 I’m currently learning "ReactJS"
 - 💞️ I’m looking to collaborate on ...
